@@ -9,7 +9,7 @@
 	<h1 style="color: green; font-size: 40px;" align="center">THIS IS NEW VERSION</h1>
 	<h1 style="color: black; font-size: 40px;" align="center">ButterFly ButterFlu where are you going </h1>
 	<div>
-<button style="color: blue"> Submit </button>
+<button style="background-color: blue" style="color: black" align = "center"> Submit </button>
 </div>
 
 	
