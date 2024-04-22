@@ -10,7 +10,7 @@
 	<h1 style="color: green; font-size: 40px;" align="center">THIS IS NEW VERSION</h1>
 	<h1 style="color: black; font-size: 40px;" align="center">ButterFly ButterFlu where are you going </h1>
 	<div align="center">
-<button style="background-color: blue" style="color: white" font-size: 25px align = "center"> Submit </button>
+<button style="background-color: blue" style="color: white; font-size: 35px;" align = "center"> Submit </button>
 </div>
 
 	
